@@ -59,9 +59,9 @@ During our analysis, we explored five pivotal questions, each providing valuable
 
 2. **Species Impact and Cost**: What are the most affected animal species, and what are the associated costs?
 
-3. **State-Specific Costs**: How does the cost of these strikes vary by state?
+3. **State-Specific Costs**: How does the cost of these strikes vary by state, and what can we forecast for the future?
 
-4. **Collision Costs Over Time**: What is the collision cost pattern over time, and what can we forecast for the future?
+4. **Collision Costs Over Time**: What is the collision cost pattern over time? 
 
 5. **Incident Frequency by Time**: How do wildlife strike incidents vary in frequency at different times of the day?
 
