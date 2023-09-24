@@ -1,14 +1,26 @@
-# Final-Project-Tableau
+# FAA Wildlife Strikes Analysis
 
-## Project Objective:
 
-Our objective is to thoroughly examine the FAA Wildlife Strikes dataset for the year 2015 and assess its financial implications.
-Tasks:
-1. **Develop Visualizations**: Create compelling visualizations in Tableau that highlight critical insights from the dataset.
+## Table of Contents
+- [Introduction](#introduction)
+- [Objective](#Project Objective)
+- [Dataset Analysis](#dataset-analysis)
+- [Visualizations](#visualizations)
+- [Key Findings](#key-findings)
+- [Problem Questions](#problem-questions)
 
-2. **Identify Patterns and Trends**: Uncover recurring patterns and trends related to wildlife strikes by utilizing the dataset.
+## Introduction
+This project focuses on analyzing the FAA Wildlife Strikes dataset for the year 2015, aiming to understand its financial implications and uncover patterns related to wildlife strikes in aviation. The analysis is conducted using Tableau to create visualizations and address specific questions related to the dataset.
 
-3. **Build Interactive Dashboard**: Construct an interactive Tableau dashboard to address inquiries and provide a user-friendly platform for exploring the dataset.
+## Project Objective
+
+The primary objective of this analysis is to thoroughly examine the FAA Wildlife Strikes dataset for the year 2015 and assess its financial implications. This involves the following key tasks:
+
+1. **Develop Visualizations**: Create compelling visualizations in Tableau that highlight critical insights from the dataset, allowing for a deeper understanding of wildlife strikes and their financial impact.
+
+2. **Identify Patterns and Trends**: Uncover recurring patterns and trends related to wildlife strikes by utilizing the dataset. By doing so, we aim to gain valuable insights into the factors influencing these incidents.
+
+3. **Build Interactive Dashboard**: Construct an interactive Tableau dashboard that serves as a user-friendly platform for exploring the dataset. This dashboard will enable users to delve into the data, ask questions, and extract meaningful information about wildlife strikes in aviation.
 
 ## Process
 
@@ -24,26 +36,6 @@ Tasks:
 
 
 ## Results
-# FAA Wildlife Strikes Analysis
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Objective](#objective)
-- [Dataset Analysis](#dataset-analysis)
-- [Visualizations](#visualizations)
-- [Key Findings](#key-findings)
-- [Problem Questions](#problem-questions)
-
-## Introduction
-This project focuses on analyzing the FAA Wildlife Strikes dataset for the year 2015, aiming to understand its financial implications and uncover patterns related to wildlife strikes in aviation. The analysis is conducted using Tableau to create visualizations and address specific questions related to the dataset.
-
-## Objective
-The primary objective of this analysis is to:
-- Thoroughly examine the FAA Wildlife Strikes dataset for 2015.
-- Assess the financial impact of wildlife strikes.
-- Create meaningful visualizations in Tableau.
-- Identify patterns and trends related to wildlife strikes.
-- Develop an interactive dashboard to answer questions related to the dataset.
 
 ## Dataset Analysis
 The analysis is structured as follows:
