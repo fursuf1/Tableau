@@ -79,8 +79,12 @@ Feel free to explore the interactive dashboard to dive deeper into the dataset a
 
 For details on how this analysis was conducted, refer to the Tableau code provided in this repository.
 
-## Challenges 
-(discuss challenges you faced in the project)
+
+## Challenges
+Initially, one of the primary challenges I faced was the organization and formulation of meaningful questions to guide my analysis effectively. Additionally, a desire to categorize airports into international, private, and commercial segments emerged as a challenge, which could have provided further insights into the dataset.
 
 ## Future Goals
-(what would you do if you had more time?)
+In my ongoing pursuit of insightful data analysis, my future goals include expanding the scope of my analysis. I plan to achieve this by creating additional graphics and visualizations to enhance data representation. Furthermore, I aim to craft a compelling narrative that highlights the relevance of the data and emphasizes key findings.
+
+Looking ahead, I also intend to incorporate other related datasets, such as customer experiences or sentiments resulting from wildlife strikes, into my analysis. This expanded dataset integration will contribute to a more comprehensive understanding of the impact of wildlife strikes in aviation.
+
