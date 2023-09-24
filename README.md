@@ -8,7 +8,7 @@
   - [Dataset Analysis](#dataset-analysis)
   - [Visualizations](#visualizations)
   - [Key Findings](#key-findings)
-  - [Problem Questions](#problem-questions)
+  - [Critical Questions Addressed](#critical-questions-addressed)
 - [Challenges](#challenges)
 - [Future Goals](#future-goals)
 
@@ -52,12 +52,20 @@ Our analysis revealed several key findings, including:
 - Birds as the dominant category responsible for most strikes.
 - Trends indicating significant impact but no direct relationship between strike occurrence and damage costs.
 
-### Problem Questions
-We addressed critical questions during our analysis:
-1. Will the cost of repairs increase over time as the number of wildlife strikes increases?
-2. Will the duration of aircraft out-of-service increase over time with more wildlife strikes?
-3. Can we identify the main causes of high wildlife strikes at the state level or airports?
-These findings offer valuable insights into wildlife strikes in aviation and their associated costs, trends, and causes. Feel free to explore the interactive dashboard to dive deeper into the dataset and gain further insights.
+### Critical Questions Addressed
+During our analysis, we explored five pivotal questions, each providing valuable insights into wildlife strikes in aviation and their related costs, trends, and causes:
+
+1. **State Incidence**: Which states experienced higher incidences of wildlife strikes?
+
+2. **Species Impact and Cost**: What are the most affected animal species, and what are the associated costs?
+
+3. **State-Specific Costs**: How does the cost of these strikes vary by state?
+
+4. **Collision Costs Over Time**: What is the collision cost pattern over time, and what can we forecast for the future?
+
+5. **Incident Frequency by Time**: How do wildlife strike incidents vary in frequency at different times of the day?
+
+Explore these questions and their insights further using our interactive dashboard for a deeper understanding of wildlife strikes in aviation.
 
 ## Challenges
 Initially, one of the primary challenges I faced was the organization and formulation of meaningful questions to guide my analysis effectively. Additionally, a desire to categorize airports into international, private, and commercial segments emerged as a challenge, which could have provided further insights into the dataset.
