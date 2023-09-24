@@ -68,7 +68,7 @@ During our analysis, we explored five pivotal questions, each providing valuable
 Explore these questions and their insights further using our interactive dashboard for a deeper understanding of wildlife strikes in aviation.
 
 ## Challenges
-Initially, one of the primary challenges I faced was the organization and formulation of meaningful questions to guide my analysis effectively. Additionally, a desire to categorize airports into international, private, and commercial segments emerged as a challenge, which I could not able to provide insights into the dataset.
+Initially, one of the primary challenges I faced was the organization and formulation of meaningful questions to guide my analysis effectively. Additionally, a desire to categorize airports into international, private, and commercial segments emerged as a challenge, which I could not able to provide detailed insights into the dataset.
 
 ## Future Goals
 In my ongoing pursuit of insightful data analysis, my future goals include expanding the scope of my analysis. I plan to achieve this by creating additional graphics and visualizations to enhance data representation. Furthermore, I aim to craft a compelling narrative that highlights the relevance of the data and emphasizes key findings. Looking ahead, I also intend to incorporate other related datasets, such as customer experiences or sentiments resulting from wildlife strikes, into my analysis. This expanded dataset integration will contribute to a more comprehensive understanding of the impact of wildlife strikes in aviation.
